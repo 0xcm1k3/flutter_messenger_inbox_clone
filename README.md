@@ -2,7 +2,7 @@
 
 this was my first code lines in flutter that i wrote after 5 days in Flutter
 
-
+<img src="./Screenshot_1643815867.png" width="300" height=600/>
 
 # preview vid 
 
